@@ -1,6 +1,4 @@
-# TaxService
-
-# The solution was built using DotNet Core 3.1 and Visual Studio Code. 
+# The TaxService solution was built using DotNet Core 3.1 and Visual Studio Code. 
 
 # The solution contains five projects. The Project Structure looks like: 
 
