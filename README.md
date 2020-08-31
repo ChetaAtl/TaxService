@@ -2,11 +2,11 @@
 
 # The solution contains five projects. The Project Structure looks like: 
 
-c:\projs\TaxService\TaxConsole
-c:\projs\TaxService\TaxjarClient
-c:\projs\TaxService\TaxjarClient.Tests
-c:\projs\TaxService\TaxService
-c:\projs\TaxService\TaxService.Tests
+1. c:\projs\TaxService\TaxConsole  
+2. c:\projs\TaxService\TaxjarClient
+3. c:\projs\TaxService\TaxjarClient.Tests
+4. c:\projs\TaxService\TaxService
+5. c:\projs\TaxService\TaxService.Tests
 
 
 # 
