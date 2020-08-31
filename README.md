@@ -64,8 +64,7 @@ estination","taxable_amount":15.0}}
 #
 
 c:\projs\TaxService\TaxjarClient.Tests>dotnet test
-Test run for c:\projs\TaxService\TaxjarClient.Tests\bin\Debug\netcoreapp3.1\Taxj
-arClient.Tests.dll(.NETCoreApp,Version=v3.1)
+Test run for c:\projs\TaxService\TaxjarClient.Tests\bin\Debug\netcoreapp3.1\TaxjarClient.Tests.dll(.NETCoreApp,Version=v3.1)
 Microsoft (R) Test Execution Command Line Tool Version 16.7.0
 Copyright (c) Microsoft Corporation.  All rights reserved.
 
