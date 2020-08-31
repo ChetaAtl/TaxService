@@ -2,24 +2,11 @@
 
 # The solution contains five projects. The Project Structure looks like: 
 
-c:\projs\TaxService>dir
- Volume in drive C is Windows
- Volume Serial Number is 06EE-C6D8
-
- Directory of c:\projs\TaxService
-
-08/31/2020  03:00 PM    <DIR>          .
-08/31/2020  03:00 PM    <DIR>          ..
-08/31/2020  12:44 PM               823 .gitignore
-08/31/2020  03:10 AM    <DIR>          .vscode
-08/30/2020  05:48 PM    <DIR>          TaxConsole
-08/30/2020  07:00 PM    <DIR>          TaxjarClient
-08/30/2020  04:43 PM    <DIR>          TaxjarClient.Tests
-08/30/2020  06:05 PM    <DIR>          TaxService
-08/31/2020  01:54 AM             5,133 TaxService.sln
-08/31/2020  02:14 AM    <DIR>          TaxService.Tests
-               2 File(s)          5,956 bytes
-               8 Dir(s)  142,948,630,528 bytes free
+c:\projs\TaxService\TaxConsole
+c:\projs\TaxService\TaxjarClient
+c:\projs\TaxService\TaxjarClient.Tests
+c:\projs\TaxService\TaxService
+c:\projs\TaxService\TaxService.Tests
 
 
 # 
